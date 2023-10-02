@@ -4,7 +4,7 @@ Hi, welcome to my webpage. My name is Lily, I come from a beautiful country name
 I majored in Industrial and Manufacturing engineering for my bachelor's degree. 
 I am currently in Zhejiang University for my masters and I am working on my Design Engineering project, hoping to learn more and obtain greater results.
 
-![](IMAGE.JPG)
+![](IMAGE.jpg)
 
 ## LIFE MOTTO
 *Whatever you set your mind to, you can achieve*
