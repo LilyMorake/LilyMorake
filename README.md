@@ -1,4 +1,3 @@
-# LilyMorake.github.io
 # OMOGOLO O. MORAKE (LILY)
 # ABOUT ME
 Hi, welcome to my webpage. My name is Lily, I come from a beautiful country named Botswana( Africa).
